@@ -3,4 +3,4 @@
 
 # Als je weet hoe Git werkt kan je wijzigingen via commit voorstellen
 
-# suggesties voor wijzigingen kan je ook mailen naar j.tolsma@ru.nl
+# suggesties voor wijzigingen kan je ook mailen naar jochem.tolsma@ru.nl
