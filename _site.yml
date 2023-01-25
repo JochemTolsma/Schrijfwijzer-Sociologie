@@ -1,0 +1,24 @@
+name: "Schrijfwijzer Sociologie"
+output_dir: "docs"
+navbar:
+  title: "home"
+  # left:
+  #   - text: "Descriptive Statistics"
+  #     href: index.html
+  #   - text: "Figures"
+  #     href: figures.html
+  #   - text: "RSiena"
+  #     href: rsiena.html
+  # #  - text: "Data preparation"
+  # #    href: dataprep.html
+  # #  - text: "Blog SRV"
+  # #    href: trends.html
+  right:
+    - icon: fab fa-github
+      href: https://github.com/JochemTolsma/Twitter
+output:
+  html_document:
+    theme: flatly
+    highlight: default
+    include:
+      after_body: footer.html
