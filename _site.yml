@@ -1,7 +1,7 @@
 name: "Schrijfwijzer Sociologie"
 output_dir: "docs"
 navbar:
-  title: "home"
+  title: ""
   # left:
   #   - text: "Descriptive Statistics"
   #     href: index.html
