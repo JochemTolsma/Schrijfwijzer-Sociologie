@@ -6,9 +6,9 @@ date: "versie `r format(Sys.time(), '%B, %Y')`"
   
 Downloads:  
 
-* [Word-versie](./doc/Schrijfwijzer Sociologie v2022.docx)  
-* [PDF-versie](./doc/Schrijfwijzer Sociologie v2022.pdf)  
+* [Word-versie](./doc/Schrijfwijzer Sociologie v2024.docx)  
+* [PDF-versie](./doc/Schrijfwijzer Sociologie v2024.pdf)  
 
 <br>
 
-![](./doc/Schrijfwijzer Sociologie v2022.pdf){width="100%" height=800px}
+![](./doc/Schrijfwijzer Sociologie v2024.pdf){width="100%" height=800px}

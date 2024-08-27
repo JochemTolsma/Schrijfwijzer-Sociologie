@@ -15,7 +15,7 @@ navbar:
   # #    href: trends.html
   right:
     - icon: fab fa-github
-      href: https://github.com/JochemTolsma/Twitter
+      href: https://github.com/JochemTolsma/Schrijfwijzer-Sociologie
 output:
   html_document:
     theme: flatly
